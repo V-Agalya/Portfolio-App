@@ -1,20 +1,20 @@
-FROM node:20 AS build
+# Use a base image suitable for your application
+FROM node:14
 
-COPY package.json package-lock.json /app/
-
+# Set the working directory in the container
 WORKDIR /app
 
-RUN npm ci \
-        && rm -rf /root/.node-gyp /root/.npm
+# Copy package.json and package-lock.json files
+COPY package*.json ./
 
-COPY . /app/
+# Install dependencies
+RUN npm install
 
-RUN npm run build
+# Copy the rest of the application source code
+COPY . .
 
+# Expose the port your app runs on
 EXPOSE 3000
 
-CMD ["npm", "run", "start", "--", "-H", "0.0.0.0"]
-
-FROM busybox:1
-
-COPY --from=build /app/out /app/out
+# Command to run your application
+CMD ["npm", "start"]
