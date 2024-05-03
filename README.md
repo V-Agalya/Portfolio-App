@@ -1,6 +1,6 @@
 # JS Portfolio Website
 
-[🔗Live Demo🔗](https://Agalya.vercel.app/)
+[🔗Live Demo🔗](http://my-new-portfolio-bucket.s3-website.eu-north-1.amazonaws.com)
 
 ![Protfolio Website](https://i.ibb.co/N7xKjdQ/Screenshot-17.png)
 
