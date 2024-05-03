@@ -1,5 +1,5 @@
 # Use the official Node.js image as base
-FROM node:alpine
+FROM node:14-alpine as build
 
 # Set the working directory in the container
 WORKDIR /portfolio-app
