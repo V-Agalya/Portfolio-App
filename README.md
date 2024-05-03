@@ -3,7 +3,7 @@
 [🔗Live Demo🔗](http://my-new-portfolio-bucket.s3-website.eu-north-1.amazonaws.com)
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/19sajib/portfolio?color=yellow)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![GitHub repo size](https://img.shields.io/github/repo-size/V-Agalya/portfolio-app?color=yellow)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 </div>
 
 <table align="center">
@@ -20,11 +20,11 @@
     <tbody>
          <tr>
             <td><a href="https://github.com/19sajib/portfolio"</a>Project</td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/19sajib/portfolio?style=flat&logo=github"/></td>
-             <td><img alt="Forks" src="https://img.shields.io/github/forks/19sajib/portfolio?style=flat&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/19sajib/portfolio?style=flat&logo=github"/></td>
-            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/19sajib/portfolio?style=flat&logo=github"/></td>
-           <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/19sajib/portfolio?style=flat&color=critical&logo=github"/></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/V-Agalya/portfolio-app?style=flat&logo=github"/></td>
+             <td><img alt="Forks" src="https://img.shields.io/github/forks/V-Agalya/portfolio-app?style=flat&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/V-Agalya/portfolio-app?style=flat&logo=github"/></td>
+            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/V-Agalya/portfolio-app?style=flat&logo=github"/></td>
+           <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/V-Agalya/portfolio-app?style=flat&color=critical&logo=github"/></td>
         </tr>
     </tbody>
 </table>
