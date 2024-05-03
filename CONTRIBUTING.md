@@ -1,8 +1,6 @@
 #  Hacktoberfest 2023
 
-[🔗Live Demo🔗](https://sajib.vercel.app/)
-
-![Protfolio Website](https://i.ibb.co/N7xKjdQ/Screenshot-17.png)
+[🔗Live Demo🔗](http://my-new-portfolio-bucket.s3-website.eu-north-1.amazonaws.com)
 
 ## Feel free to contribute to this repo
 **👉 Open a issue if you want to do any contribution, will assign you that**
@@ -191,8 +189,3 @@ Now submit the pull request.
 </table>
 
 <hr>
-
-Feel free to contribute to this repo.
-
-### Show some ❤️&nbsp; by giving the star :star: to this repository!!
-<h1 align=center> 🧠 Happy Hacking 🧠 </h1>
